@@ -7,7 +7,7 @@ from typing import Union
 import pyrogram
 from ntgcalls import Protocol
 from pyrogram import Client
-from pyrogram import ContinuePropagation
+#from pyrogram import ContinuePropagation
 from pyrogram.raw.base import InputPeer
 from pyrogram.raw.base import InputUser
 from pyrogram.raw.functions.channels import GetFullChannel
